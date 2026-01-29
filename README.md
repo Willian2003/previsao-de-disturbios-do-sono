@@ -6,6 +6,6 @@ Este projeto busca prever a qualidade do sono de indivíduos, permitindo que pro
 
 ## Instalação e Execução
 
-Para executar esse código basta [clicar aqui](ps-ligia-quality-sleep.ipynb), depois no ícone "Open in Colab" que aparecerá no topo do código, ir em "Ambiente de execução" e clicar em "Executar tudo".
+Para executar esse código basta clicar [aqui](ps-ligia-quality-sleep.ipynb), depois no ícone "Open in Colab" que aparecerá no topo do código, ir em "Ambiente de execução" e clicar em "Executar tudo".
 
 ## Pesos dos modelos
