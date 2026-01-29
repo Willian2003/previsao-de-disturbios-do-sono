@@ -38,7 +38,7 @@ previsao-da-qualidade-do-sono/
 
 ## Instalação
 
-1. Criar um ambiente virtual:
+Criar um ambiente virtual:
 ```bash
 python -m venv venv
 source venv/bin/activate  # Linux/Mac
