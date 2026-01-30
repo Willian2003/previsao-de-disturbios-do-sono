@@ -12,7 +12,7 @@ Este projeto busca prever a qualidade do sono de indivíduos, permitindo que pro
 
 Os pesos do modelo treinado estão salvos no arquivo:
 
-models/sleep_quality_model.pkl
+sleep_quality_model.pkl
 
 
 Esse arquivo é gerado no notebook 03_training.ipynb e utilizado no 05_inference.ipynb para realizar a inferência da qualidade do sono em novos pacientes.
